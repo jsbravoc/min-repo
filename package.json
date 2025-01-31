@@ -1,0 +1,11 @@
+{
+  "name": "min-repo",
+  "packageManager": "yarn@4.6.0",
+  "private": true,
+  "workspaces": [
+    "front",
+    "types"
+  ],
+  "version": "1.0.0",
+  "author": "Juan Sebastian Bravo <jsbravoc@gmail.com>"
+}
